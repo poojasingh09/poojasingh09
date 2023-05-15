@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @poojasingh09
 - 👀 I’m interested in adaptation & speciation using genomics & transcriptomics approaches, but also integrating morphology and ecology
-- 💞️ I’m looking to collaborate on things related to adaptation and speciation genomics/transcriptomics
+- 💞️ I’m looking to chat/collaborate on things related to adaptation and speciation genomics/transcriptomics
 - 📫 How to reach me pooja.singh09@gmail.com and https://poojasinghevogen.weebly.com
 
 <!---
